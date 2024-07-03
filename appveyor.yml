@@ -1,0 +1,8 @@
+image: Visual Studio 2017
+
+platform: Any CPU
+
+configuration: Release
+
+build:
+  project: vWeaponsToolkit.sln
